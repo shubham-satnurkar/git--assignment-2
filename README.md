@@ -1,4 +1,2 @@
-hw1
-===
-
-A place to put the first assignment.
+https://shubham-satnurkar.github.io/git--assignment-2/
+Assignment link
